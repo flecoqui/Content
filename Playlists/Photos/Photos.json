@@ -13,10 +13,10 @@
           "Title": "Photo 1",
           "ImagePath": "ms-appx:///Assets/PHOTO.png",
           "Description": "Photo over HTTP",
-          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo1.jpg",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/photo1.jpg",
           "PosterContent": "",
           "Start": "0",
-          "Duration": "10",
+          "Duration": "30000",
           "PlayReadyUrl": "null",
           "PlayReadyCustomData": "null",
           "BackgroundAudio": false
@@ -27,10 +27,10 @@
           "Title": "Photo 2",
           "ImagePath": "ms-appx:///Assets/PHOTO.png",
           "Description": "Photo over HTTP",
-          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo2.jpg",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/photo2.jpg",
           "PosterContent": "",
           "Start": "0",
-          "Duration": "10",
+          "Duration": "30000",
           "PlayReadyUrl": "null",
           "PlayReadyCustomData": "null",
           "BackgroundAudio": false
@@ -41,10 +41,10 @@
           "Title": "Photo 3",
           "ImagePath": "ms-appx:///Assets/PHOTO.png",
           "Description": "Photo over HTTP",
-          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo3.jpg",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/photo3.JPG",
           "PosterContent": "",
           "Start": "0",
-          "Duration": "10",
+          "Duration": "30000",
           "PlayReadyUrl": "null",
           "PlayReadyCustomData": "null",
           "BackgroundAudio": false
@@ -55,10 +55,10 @@
           "Title": "Photo 4",
           "ImagePath": "ms-appx:///Assets/PHOTO.png",
           "Description": "Photo over HTTP",
-          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo4.jpg",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/photo4.JPG",
           "PosterContent": "",
           "Start": "0",
-          "Duration": "10",
+          "Duration": "30000",
           "PlayReadyUrl": "null",
           "PlayReadyCustomData": "null",
           "BackgroundAudio": false
@@ -69,14 +69,14 @@
           "Title": "Photo 5",
           "ImagePath": "ms-appx:///Assets/PHOTO.png",
           "Description": "Photo over HTTP",
-          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo5.jpg",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/photo5.JPG",
           "PosterContent": "",
           "Start": "0",
-          "Duration": "10",
+          "Duration": "30000",
           "PlayReadyUrl": "null",
           "PlayReadyCustomData": "null",
           "BackgroundAudio": false
-        },
+        }
 
       ]
     }

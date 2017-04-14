@@ -1,0 +1,84 @@
+﻿{
+  "Groups": [
+    {
+      "UniqueId": "audio_video_picture",
+      "Title": "Windows 10 Photos Playlist",
+      "Category": "Windows 10 Windows 10 Photos Playlist",
+      "ImagePath": "ms-appx:///Assets/AudioVideo.png",
+      "Description": "Windows 10 Photos Playlist",
+      "Items": [
+        {
+          "UniqueId": "photo_1",
+          "Comment": "#1",
+          "Title": "Photo 1",
+          "ImagePath": "ms-appx:///Assets/PHOTO.png",
+          "Description": "Photo over HTTP",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo1.jpg",
+          "PosterContent": "",
+          "Start": "0",
+          "Duration": "10",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+        {
+          "UniqueId": "photo_2",
+          "Comment": "#2",
+          "Title": "Photo 2",
+          "ImagePath": "ms-appx:///Assets/PHOTO.png",
+          "Description": "Photo over HTTP",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo2.jpg",
+          "PosterContent": "",
+          "Start": "0",
+          "Duration": "10",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+        {
+          "UniqueId": "photo_3",
+          "Comment": "#3",
+          "Title": "Photo 3",
+          "ImagePath": "ms-appx:///Assets/PHOTO.png",
+          "Description": "Photo over HTTP",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo3.jpg",
+          "PosterContent": "",
+          "Start": "0",
+          "Duration": "10",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+        {
+          "UniqueId": "photo_4",
+          "Comment": "#4",
+          "Title": "Photo 4",
+          "ImagePath": "ms-appx:///Assets/PHOTO.png",
+          "Description": "Photo over HTTP",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo4.jpg",
+          "PosterContent": "",
+          "Start": "0",
+          "Duration": "10",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+        {
+          "UniqueId": "photo_5",
+          "Comment": "#5",
+          "Title": "Photo 5",
+          "ImagePath": "ms-appx:///Assets/PHOTO.png",
+          "Description": "Photo over HTTP",
+          "Content": "https://raw.githubusercontent.com/flecoqui/Content/master/Playlists/Photos/Photo5.jpg",
+          "PosterContent": "",
+          "Start": "0",
+          "Duration": "10",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+
+      ]
+    }
+  ]
+}

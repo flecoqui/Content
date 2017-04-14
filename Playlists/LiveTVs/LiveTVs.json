@@ -1,0 +1,99 @@
+﻿{
+  "Groups": [
+    {
+      "UniqueId": "audio_video_picture",
+      "Title": "Windows 10 Radio Playlist",
+      "Category": "Windows 10 Windows 10 Radio Playlist",
+      "ImagePath": "ms-appx:///Assets/AudioVideo.png",
+      "Description": "Windows 10 Radio Playlist",
+      "Items": [
+        {
+          "UniqueId": "audio_mp3_http_6",
+          "Comment": "#58",
+          "Title": "France Bleu Armorique 32K",
+          "ImagePath": "ms-appx:///Assets/MP3.png",
+          "Description": "MP3 Audio over HTTP 7",
+          "Content": "http://direct.francebleu.fr/live/fbarmorique-lofi.mp3",
+          "PosterContent": "https://testmusic.blob.core.windows.net/radio/francebleu.png",
+          "Start": "0",
+          "Duration": "0",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+        {
+          "UniqueId": "audio_mp3_http_5",
+          "Comment": "#55",
+          "Title": "France Culture 32K",
+          "ImagePath": "ms-appx:///Assets/MP3.png",
+          "Description": "MP3 Audio over HTTP 5",
+          "Content": "http://direct.franceculture.fr/live/franceculture-lofi.mp3",
+          "PosterContent": "https://testmusic.blob.core.windows.net/radio/franceculture.png",
+          "Start": "0",
+          "Duration": "0",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+        {
+          "UniqueId": "audio_mp3_http_6",
+          "Comment": "#56",
+          "Title": "France Info 32K",
+          "ImagePath": "ms-appx:///Assets/MP3.png",
+          "Description": "MP3 Audio over HTTP 6",
+          "Content": "http://direct.franceinfo.fr/live/franceinfo-lofi.mp3",
+          "PosterContent": "https://testmusic.blob.core.windows.net/radio/franceinfo.png",
+          "Start": "0",
+          "Duration": "0",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+        {
+          "UniqueId": "audio_mp3_http_6",
+          "Comment": "#57",
+          "Title": "France Inter Paris 32K",
+          "ImagePath": "ms-appx:///Assets/MP3.png",
+          "Description": "MP3 Audio over HTTP 7",
+          "Content": "http://direct.fipradio.fr/live/fip-lofi.mp3",
+          "PosterContent": "https://testmusic.blob.core.windows.net/radio/fip.png",
+          "Start": "0",
+          "Duration": "0",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+        {
+          "UniqueId": "audio_mp3_http_1",
+          "Comment": "#51",
+          "Title": "France Inter 32K",
+          "ImagePath": "ms-appx:///Assets/MP3.png",
+          "Description": "MP3 Audio over HTTP 1",
+          "Content": "http://direct.franceinter.fr/live/franceinter-lofi.mp3",
+          "PosterContent": "https://testmusic.blob.core.windows.net/radio/franceinter.png",
+          "Start": "0",
+          "Duration": "0",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        },
+        {
+          "UniqueId": "audio_mp3_http_2",
+          "Comment": "#52",
+          "Title": "France Musique 32K",
+          "ImagePath": "ms-appx:///Assets/MP3.png",
+          "Description": "MP3 Audio over HTTP 2",
+          "Content": "http://direct.francemusique.fr/live/francemusique-lofi.mp3",
+          "PosterContent": "https://testmusic.blob.core.windows.net/radio/francemusique.png",
+          "Start": "0",
+          "Duration": "0",
+          "PlayReadyUrl": "null",
+          "PlayReadyCustomData": "null",
+          "BackgroundAudio": false
+        }
+
+
+      ]
+    }
+  ]
+}
